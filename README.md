@@ -31,9 +31,9 @@ Cyril en Sueur
 13. Bonne dégustation 
 
 <<<<<<< HEAD
-# Recette de Pizza de Noël
-# Par Sacha Follier
-## Ingrédients :
+## Recette de Pizza de Noël
+## Par Sacha Follier
+### Ingrédients :
 * Farine
 * Eau
 * Levure boulangère
@@ -45,7 +45,7 @@ Cyril en Sueur
 * Fromage
 * Pangolin
 * Chauve-souris
-## Préparation :
+### Préparation :
 1.   Préparer la pâte avec 200 ml d’eau, 500g de farine, le sel et un sachet levure boulangère et laisser reposer
 2.   Broyer environ 6 tomates pour faire la sauce
 3.    Faire cuire le pangolin et la chauve-souris à feu doux pendant 40 min
