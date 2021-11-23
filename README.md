@@ -81,6 +81,20 @@ Cyril en Sueur
 7. La pizza est prête, vous pouvez rajouter de la sauce piquante pour ceux qui le souhaitent.
 >>>>>>> cc1016cbff2de186ce92417abea0c3edb49aa327
 
+## Recette 4: Le soufflé suicidaire :
+
+### Ingrédients :
+- 100g de paille de blé
+- 2g de composte
+- 50 ml d’acide chlorhydrique
+- 3 œufs d’autruche
+
+### Préparation : 
+1. Broyer les 100g de paille
+2. Mettez les 3 œuf d’autruche avec la coquille, broyer les
+3. Rajoutez 50 ml d’acide chlorhydrique
+4. Mélangez l’ensemble et rajouter les 2g de composte pour saler l’ensemble
+5. Mettre la solution dans un congélateur pendant 2 semaines puis la mettre dans un four haute température à 1000°C pendant 2 jours et appréciez-la !
 
 
 
