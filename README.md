@@ -1,5 +1,3 @@
-# Livre-Recettes
-Cyril en Sueur
 # Livre de Recettes : Cyril Lignac en sueur
 
 ![Texte alternatif](mxi748.jpeg "C'est gourmand ")
