@@ -58,7 +58,7 @@ Cyril en Sueur
 7.    Mettez le tout dans un four à 300 degré pendant 20 min
 8.   Vous pouvez déguster
  
- ![Texte alternatif](pizzaweb-1118x516 "Titre de l’image ")
+ ![Texte alternatif](cyril.jpeg "Titre de l’image ")
 ## LA PIZZA AU COUSCOUS
 
 ### Ingrédients :
@@ -97,7 +97,7 @@ Cyril en Sueur
 4. Mélangez l’ensemble et rajouter les 2g de composte pour saler l’ensemble
 5. Mettre la solution dans un congélateur pendant 2 semaines puis la mettre dans un four haute température à 1000°C pendant 2 jours et appréciez-la !
 
-
+![Texte alternatif](unknown.jpeg "Titre de l’image ")
 
 
 
