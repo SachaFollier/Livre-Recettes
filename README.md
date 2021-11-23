@@ -4,6 +4,7 @@ Cyril en Sueur
 
 ![Texte alternatif](mxi748.jpeg "C'est gourmand ")
 
+
 ## Recette 1: le gâteau du pauvre :
 ### Ingrédients :
 
@@ -30,10 +31,9 @@ Cyril en Sueur
 12. Mettre le pfizer en topping après cuisson
 13. Bonne dégustation 
 
-<<<<<<< HEAD
-# Recette de Pizza de Noël
-# Par Sacha Follier
-## Ingrédients :
+## Recette de Pizza de Noël
+
+### Ingrédients :
 * Farine
 * Eau
 * Levure boulangère
@@ -45,7 +45,7 @@ Cyril en Sueur
 * Fromage
 * Pangolin
 * Chauve-souris
-## Préparation :
+### Préparation :
 1.   Préparer la pâte avec 200 ml d’eau, 500g de farine, le sel et un sachet levure boulangère et laisser reposer
 2.   Broyer environ 6 tomates pour faire la sauce
 3.    Faire cuire le pangolin et la chauve-souris à feu doux pendant 40 min
@@ -56,7 +56,6 @@ Cyril en Sueur
 8.   Vous pouvez déguster
  
  ![Texte alternatif](pizzaweb-1118x516 "Titre de l’image ")
-=======
 ## LA PIZZA AU COUSCOUS
 
 ### Ingrédients :
@@ -79,7 +78,6 @@ Cyril en Sueur
 5. Mettre la pizza au four pendant 12 minutes à 190°.
 6. Après avoir sorti la pizza , étaler la semoule cuite de façon homogène sur la pizza.
 7. La pizza est prête, vous pouvez rajouter de la sauce piquante pour ceux qui le souhaitent.
->>>>>>> cc1016cbff2de186ce92417abea0c3edb49aa327
 
 ## Recette 4: Le soufflé suicidaire :
 
