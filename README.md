@@ -30,6 +30,28 @@ Cyril en Sueur
 12. Mettre le pfizer en topping après cuisson
 13. Bonne dégustation 
 
+## LA PIZZA AU COUSCOUS
+
+### Ingrédients :
+- une pâte à la farine de maïs.
+- 4 tomates soigneusement coupées en fines rondelles.
+- sauce tomate maison.
+- semoule (200g)
+- 1 merguez
+- ½ poulet
+- Boulettes de bœuf
+- courgettes
+- carottes.
+
+### Etapes de préparation :
+
+1. Commencer par mettre de l’eau dans une casserole et la faire chauffer jusqu’à ébullition. Y mettre la semoule.
+2. Prendre la pâte, la dérouler et appliquer la sauce tomate maison.
+3. Prendre toute la viande, la découper en petit morceaux et répartir les petits bouts partout sur la pâte de façon homogène.
+4. Faire de même avec les tomates et les légumes de saison.
+5. Mettre la pizza au four pendant 12 minutes à 190°.
+6. Après avoir sorti la pizza , étaler la semoule cuite de façon homogène sur la pizza.
+7. La pizza est prête, vous pouvez rajouter de la sauce piquante pour ceux qui le souhaitent.
 
 
 
