@@ -79,11 +79,6 @@ Cyril en Sueur
 5. Mettre la pizza au four pendant 12 minutes à 190°.
 6. Après avoir sorti la pizza , étaler la semoule cuite de façon homogène sur la pizza.
 7. La pizza est prête, vous pouvez rajouter de la sauce piquante pour ceux qui le souhaitent.
->>>>>>> cc1016cbff2de186ce92417abea0c3edb49aa327
-
-
-
-
 
 
 
